@@ -1,0 +1,27 @@
+.footer {
+  background-color: rgb(38, 38, 38);
+}
+.div-row-footer {
+  width: 90%;
+  margin: 1rem auto;
+}
+.div-icons-footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
+}
+.div-icons-footer div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.div-icons-footer div {
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  width: 3.5rem;
+  height: 3.5rem;
+  border: 1px solid rgb(203, 203, 203);
+}

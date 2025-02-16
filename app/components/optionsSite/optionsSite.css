@@ -1,0 +1,9 @@
+.optionsSite {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 7rem auto;
+
+}
+.div-optionsSite {
+    width: 90%;
+}
